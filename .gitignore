@@ -45,4 +45,5 @@ Temporary Items
 *.pkl
 Cache/
 Revocation/
+.idea/*
 WeChatForRevocation.py
